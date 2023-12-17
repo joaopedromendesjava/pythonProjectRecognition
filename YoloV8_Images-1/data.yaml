@@ -1,0 +1,12 @@
+names: [
+2 - 20km]
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: yolov8_images
+  url: https://universe.roboflow.com/joo-pedro-2tyj4/yolov8_images/dataset/1
+  version: 1
+  workspace: joo-pedro-2tyj4
+test: ../test/images
+train: train/images
+val: valid/images
