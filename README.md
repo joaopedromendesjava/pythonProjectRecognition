@@ -83,6 +83,8 @@ Com a função citada anteriormente, conseguimos obter o histórico do treinamen
 
 ![epoca_img](https://github.com/joaopedromendesjava/pythonProjectRecognition/assets/90357555/3a469591-cb09-4503-8f35-a4853e6382f9)
 
+![20km_precisao_img](https://github.com/joaopedromendesjava/pythonProjectRecognition/assets/90357555/9dc7aedc-6741-49c0-ae46-dc2f45f6461b)
+
 Aqui podemos observar um teste feito para validação com a placa de 20 Km/h.
 
 
