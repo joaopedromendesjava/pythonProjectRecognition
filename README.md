@@ -81,6 +81,8 @@ Linha de treinamento representada em azul e a de validação em laranja.
 
 Com a função citada anteriormente, conseguimos obter o histórico do treinamento que nos mostra exatamente o que o gráfico representa, na imagem abaixo podemos observar que nas últimas épocas o valor da acurácia, representado pela variável val_accuracy, se manteve próximo ao 1 com poucas variações sempre oscilando entre 0.98 e 0.99 (98% a 99%).
 
+![epoca_img](https://github.com/joaopedromendesjava/pythonProjectRecognition/assets/90357555/3a469591-cb09-4503-8f35-a4853e6382f9)
+
 Aqui podemos observar um teste feito para validação com a placa de 20 Km/h.
 
 
