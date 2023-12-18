@@ -77,8 +77,7 @@ Após o treinamento podemos observar que no começo o modelo tem uma crescente e
 Isso se aplica ao contrário para o gráfico de perda onde no começo o modelo tem uma perda maior e obtém uma decrescente exponencial e se mantém nos níveis mais baixos nas épocas finais do treinamento.
 Linha de treinamento representada em azul e a de validação em laranja.
 
-
-
+![perda_precisao_img](https://github.com/joaopedromendesjava/pythonProjectRecognition/assets/90357555/f720d800-3d26-4ffa-afa5-f649352b56ec)
 
 Com a função citada anteriormente, conseguimos obter o histórico do treinamento que nos mostra exatamente o que o gráfico representa, na imagem abaixo podemos observar que nas últimas épocas o valor da acurácia, representado pela variável val_accuracy, se manteve próximo ao 1 com poucas variações sempre oscilando entre 0.98 e 0.99 (98% a 99%).
 
